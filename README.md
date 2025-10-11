@@ -1,3 +1,10 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprendizarthur&layout=compact&theme=light&cache_seconds=1800" alt="Linguagens mais usadas" width="50%" />
-</div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=developerarthurvieira&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
+
+### Olá, meu nome é Arthur!
+<p>Atualmente curso Ciência da Computação e sou apaixonado por desenvolvimento web. Estudo PHP com foco em Laravel, e no futuro pretendo explorar JavaScript e frameworks como React.</p>
+
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
