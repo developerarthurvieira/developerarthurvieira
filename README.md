@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=developerarthurvieira&show_icons=true&theme=dark&cache_seconds=2300" alt="ilustração do status do github">
-
 ### Olá, meu nome é Arthur!
 <p>Atualmente curso Ciência da Computação e sou apaixonado por desenvolvimento web.</p>
 
